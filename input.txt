@@ -1,0 +1,1 @@
+{"group":[{"name":"Alex Gluscov","age":20,"grant":1026,"grantGrade":2,"averageMark":9.66},{"name":"Alex Markitan","age":19,"grant":856,"grantGrade":1,"averageMark":8.7},{"name":"Mihai Gregurco","age":20,"grant":1026,"grantGrade":2,"averageMark":9.7},{"name":"Superman","age":22,"grant":1200,"grantGrade":3,"averageMark":99.99}]}
